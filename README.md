@@ -1,4 +1,4 @@
-# 🩺 Fine-Tuning Llama-3-8B-Chat on a Medical Conversational Dataset  
+# Fine-Tuning Llama-3-8B-Chat on a Medical Conversational Dataset  
 Train a **Llama-3-8B-Chat** model to act as a **doctor assistant** using the **ruslanmv/ai-medical-chatbot** dataset (250 k dialogs) in a **single Kaggle notebook** with **QLoRA** – runs **end-to-end in &lt; 45 min** on a **T4 GPU**.
 
 ---
